@@ -1,0 +1,12 @@
+{
+    "name": "fatima/website",
+    "description": "DEMO",
+    "authors": [
+        {
+            "name": "imedev2",
+            "email": "fatima@5w2h.biz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
